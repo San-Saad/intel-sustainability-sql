@@ -29,4 +29,4 @@ SELECT i.region,
 FROM intel.device_data d
 JOIN intel.impact_data i ON d.device_id = i.device_id
 GROUP BY i.region;
-SQL Screenshots/task 3 ss.png
+
