@@ -168,4 +168,5 @@ Strategic repurposing focused on laptops and high-impact regions can further max
 # Author
 
 San Saad 
+
 Cybersecurity | Data Analytics | Sustainability Technology
