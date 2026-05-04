@@ -1,0 +1,12 @@
+# Local/editor files
+.vscode/
+.idea/
+*.tmp
+*.log
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Unrelated local project copy accidentally placed inside this repo
+Task Analysis/soc-automation-lab/
